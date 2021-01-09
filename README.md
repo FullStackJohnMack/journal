@@ -1,1 +1,2 @@
 - 1/7/21: Worked on Adventure Montana
+- 1/8/21: Worked on Adventure Montana. Did: confirm delete, clean up reviews, hero photo, logged in photo, redirect to register
